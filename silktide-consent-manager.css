@@ -83,15 +83,15 @@
 #silktide-wrapper .st-button {
   color: var(--backgroundColor);
   background-color: var(--primaryColor);
-  border: 2px solid var(--primaryColor);
+  border: 1px solid var(--primaryColor);
   padding: 10px 20px;
   text-decoration: none;
   text-align: center;
   display: inline-block;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 20px;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 #silktide-wrapper .st-button--primary {
@@ -120,7 +120,7 @@
   color: var(--textColor);
   background-color: var(--backgroundColor);
   box-sizing: border-box;
-  padding: 32px;
+  padding: 22px;
   border-radius: 5px;
   pointer-events: auto;
   border: 0px;
@@ -174,7 +174,7 @@
   background-color: transparent;
   color: var(--primaryColor);
   cursor: pointer;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 #silktide-banner .preferences span {
@@ -194,8 +194,8 @@
 }
 
 #silktide-banner p {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 20px;
   margin: 0px 0px 15px;
 }
 
@@ -282,7 +282,7 @@
 #silktide-modal h1 {
   font-family: var(--fontFamily);
   color: var(--textColor);
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
   margin: 0px;
 }
@@ -321,8 +321,8 @@
 }
 
 #silktide-modal p {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 20px;
   color: var(--textColor);
   margin: 0px 0px 15px;
 }
