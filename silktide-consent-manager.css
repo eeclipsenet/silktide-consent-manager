@@ -470,6 +470,11 @@
 
 /* Cookie Icon */
 #silktide-cookie-icon {
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  bottom: -9999px;
+  right: -9999px;
   display: none;
   position: fixed;
   bottom: 10px;
@@ -484,7 +489,6 @@
   background-color: var(--cookieIconColor);
   cursor: pointer;
   box-shadow: 0px 0px 6px 0px #0000001a;
-  pointer-events: auto;
   animation: silktide-fadeIn 0.3s ease-in-out forwards;
 }
 
