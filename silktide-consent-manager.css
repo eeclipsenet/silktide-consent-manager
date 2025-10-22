@@ -69,7 +69,7 @@
 #silktide-wrapper #silktide-cookie-icon:focus {
   outline: none;
   box-shadow: var(--focus);
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 #silktide-wrapper #silktide-cookie-icon:focus {
